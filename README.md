@@ -1,4 +1,13 @@
-## Hi there 👋
+### Hi there 👋
+
+My name is Gjin Rexhaj, and I'm a second-year university student majoring in Computer Science and minoring in Mathematics. I'm also an incoming firmware engineer intern this summer.
+\
+\
+\
+Take a look around! You can find all of my personal programming projects on this Github.
+
+- 🔭 I’m currently working on a fractal generator app built in java
+- 🌱 I’m currently learning vanilla Java (as well as swing and awt), C, C++, and Python
 
 <!--
 **GjinRexhaj/GjinRexhaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
