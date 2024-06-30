@@ -7,7 +7,7 @@ My name is Gjin Rexhaj, and I'm a second-year university student majoring in Com
 Take a look around! You can find all of my personal programming projects on this Github.
 
 - 🔭 I’m currently working on a fractal generator app built in java
-- 🌱 I’m currently learning vanilla Java (as well as swing and awt), C, C++, and Python. Possibly looking into learning Kotlin
+- 🌱 I’m currently learning vanilla Java (as well as swing and awt), and Python. Possibly looking into learning Kotlin and maybe C & C++
 
 <!--
 **GjinRexhaj/GjinRexhaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
