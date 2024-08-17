@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Gjin Rexhaj, and I'm a second-year university student majoring in Computer Science and minoring in Mathematics. I'm also an incoming firmware engineer intern this summer.
+My name is Gjin Rexhaj, and I'm a third-year university student majoring in Computer Science and minoring in Mathematics. I was also a former firmware engineer intern this past summer.
 \
 \
 \
