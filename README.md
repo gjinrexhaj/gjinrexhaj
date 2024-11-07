@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **C & C++**
 
-- 👨‍💻 All of my projects are available at [https://gjinrexhaj.github.io/](https://gjinrexhaj.github.io/)
+- 👨‍💻 All of my public projects are available at [https://gjinrexhaj.github.io/](https://gjinrexhaj.github.io/)
 
 - 📫 How to reach me: **gjin.contact@gmail.com**
 
