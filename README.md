@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **a fractal generator app built in Java, as well as a graphing calculator in Python**
 
-- 🌱 I’m currently learning **C, C++, GTK, and CMake**
+- 🌱 I’m currently learning **C, C++, GTK, CMake, and OpenGL**
 
 - 👨‍💻 All of my public projects are available at [https://gjinrexhaj.github.io/](https://gjinrexhaj.github.io/)
 
