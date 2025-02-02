@@ -16,7 +16,18 @@
 
 <br />
 <h3 align="left">Language and Tool Proficiencies:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+<p align="left"> <img src="Images/c++.png" alt="C++" width="40" height="40"/>
+                 <img src="Images/java.png" alt="Java" width="40" height="40"/>
+                 <img src="Images/python.png" alt="Python" width="40" height="40"/>
+                 <img src="Images/cmake.png" alt="CMake" width="40" height="40"/>
+                 <img src="Images/git.png" alt="Git" width="40" height="40"/>
+                 <img src="Images/bash.png" alt="Bash" width="40" height="40"/>
+                 <img src="Images/linux.png" alt="Linux" width="40" height="40"/>
+                 <img src="Images/qt.png" alt="QT" width="50" height="40"/>
+  
+  
+  
+                 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
                  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://github.com/odb/official-bash-logo/blob/master/assets/Logos/Icons/SVG/48x48_white.svg" alt="bash" width="40" height="40"/> </a>
                  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
                  <a href="https://isocpp.org/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="c++" width="40" height="40"/> </a>
