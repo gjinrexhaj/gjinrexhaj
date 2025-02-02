@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **3d rendering engine using OpenGL**
 
-- 🌱 I’m currently learning **C, C++, GTK, CMake, and OpenGL**
+- 🌱 I’m currently learning **C, C++, and Kotlin**
 
 - 👨‍💻 All of my public projects are available at [https://gjinrexhaj.github.io/](https://gjinrexhaj.github.io/)
 
