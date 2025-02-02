@@ -26,11 +26,4 @@
                  <img src="Images/qt.png" alt="QT" width="50" height="40"/>
 </p>
 
-- C++
-- Java
-- Python
-- CMake
-- Git
-- Bash
-- Linux
-- QT
+C++, Java, Python, CMake, Git, Bash, Linux, QT
