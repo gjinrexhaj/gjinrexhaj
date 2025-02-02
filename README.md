@@ -22,6 +22,6 @@
                  <img src="Images/cmake.png" alt="CMake" width="40" height="40"/>
                  <img src="Images/git.png" alt="Git" width="40" height="40"/>
                  <img src="Images/bash.png" alt="Bash" width="40" height="40"/>
-                 <!--<img src="Images/linux.png" alt="Linux" width="40" height="40"/>-->
+                 <img src="Images/linux.png" alt="Linux" width="40" height="40"/>
                  <img src="Images/qt.png" alt="QT" width="50" height="40"/>
 </p>
