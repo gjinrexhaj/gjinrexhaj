@@ -3,7 +3,7 @@
 <br />
 
 
-- 🔭 I’m currently working on **3d rendering engine using OpenGL**
+- 🔭 I’m currently working on **3d renderer using OpenGL**
 
 - 🌱 I’m currently learning **C, C++, and Kotlin**
 
