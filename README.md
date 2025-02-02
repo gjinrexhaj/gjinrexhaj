@@ -25,3 +25,12 @@
                  <img src="Images/linux.png" alt="Linux" width="40" height="40"/>
                  <img src="Images/qt.png" alt="QT" width="50" height="40"/>
 </p>
+
+- C++
+- Java
+- Python
+- CMake
+- Git
+- Bash
+- Linux
+- QT
