@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gjin Rexhaj</h1>
+<h1 align="center">Hi 👋, I'm Gjin</h1>
 <h3 align="center">Third-year university student majoring in Computer Science and minoring in Mathematics.</h3>
 <br />
 
@@ -6,8 +6,6 @@
 - 🔭 I’m currently working on **3d renderer using OpenGL**
 
 - 🌱 I’m currently learning **C, C++, and Kotlin**
-
-- 👨‍💻 All of my public projects are available at [https://gjinrexhaj.github.io/](https://gjinrexhaj.github.io/)
 
 - 📫 How to reach me: **gjin.contact@gmail.com**
 
