@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **C, C++, and Kotlin**
 
-- 🧑‍💻 All of my public projects are available at: https://gjinrexhaj.github.io
+- 🧑‍💻 Portfolio: **[wip]**
 
 - 📫 How to reach me: **gjin.contact@gmail.com**
 
