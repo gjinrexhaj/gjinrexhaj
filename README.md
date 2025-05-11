@@ -16,7 +16,7 @@
 
 <br />
 <h3 align="left">Language and Tool Proficiencies:</h3>
-<p align="left"> <img src="Images/c.png" alt="C" width="40" height="44"/>
+<p align="left"> <img src="Images/c.png" alt="C" width="36" height="40"/>
                  <img src="Images/c++.png" alt="C++" width="40" height="40"/>
                  <img src="Images/java.png" alt="Java" width="40" height="40"/>
                  <img src="Images/kotlin.png" alt="Kotlin" width="40" height="40"/>
