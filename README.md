@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **implementing a neural-net from scratch**
 
-- 🌱 I’m currently learning **C, C++, and Kotlin**
+- 🌱 I’m currently learning **Kotlin Multiplatform, and Compose Multiplatform**
 
 - 🧑‍💻 Portfolio: **https://gjinrexhaj.github.io/portfolio/**
 
