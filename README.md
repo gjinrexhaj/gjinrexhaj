@@ -16,7 +16,8 @@
 
 <br />
 <h3 align="left">Language and Tool Proficiencies:</h3>
-<p align="left"> <img src="Images/c++.png" alt="C++" width="40" height="40"/>
+<p align="left"> <img src="Images/c.png" alt="C" width="40" height="44"/>
+                 <img src="Images/c++.png" alt="C++" width="40" height="40"/>
                  <img src="Images/java.png" alt="Java" width="40" height="40"/>
                  <img src="Images/kotlin.png" alt="Kotlin" width="40" height="40"/>
                  <img src="Images/python.png" alt="Python" width="40" height="40"/>
@@ -27,4 +28,4 @@
                  <img src="Images/qt.png" alt="QT" width="50" height="40"/>
 </p>
 
-C++, Java, Kotlin, Python, CMake, Git, Bash, Linux, QT
+C, C++, Java, Kotlin, Python, CMake, Git, Bash, Linux, QT
