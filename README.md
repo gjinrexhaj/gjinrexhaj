@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **implementing a neural-net from scratch**
 
-- 🌱 I’m currently learning **Kotlin Multiplatform, and Compose Multiplatform**
+- 🌱 I’m currently learning **Godot, and C#**
 
 - 🧑‍💻 Portfolio: **https://gjinrexhaj.github.io/portfolio/**
 
