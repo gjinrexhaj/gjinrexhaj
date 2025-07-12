@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **implementing a neural-net from scratch**
 
-- 🌱 I’m currently learning **Godot, and C#**
+- 🌱 I’m currently learning **Godot, C#, and AvaloniaUI**
 
 - 🧑‍💻 Portfolio: **https://gjinrexhaj.github.io/portfolio/**
 
