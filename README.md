@@ -16,12 +16,22 @@
 
 
 <br />
+
+
+<h3 align="left">Language and Tool Proficiencies:</h3>
+
+| C                                                        | C++                                                          | Java                                                           | Kotlin                                                             | Firebase                                                               | Python                                                             | CMake                                                            | git                                                          | bash                                                           | Linux                                                            | QT                                                         |
+|----------------------------------------------------------|--------------------------------------------------------------|----------------------------------------------------------------|--------------------------------------------------------------------|------------------------------------------------------------------------|--------------------------------------------------------------------|------------------------------------------------------------------|--------------------------------------------------------------|----------------------------------------------------------------|------------------------------------------------------------------|------------------------------------------------------------|
+| <img src="Images/c.png" alt="C" width="36" height="40"/> | <img src="Images/c++.png" alt="C++" width="40" height="40"/> | <img src="Images/java.png" alt="Java" width="40" height="40"/> | <img src="Images/kotlin.png" alt="Kotlin" width="40" height="40"/> | <img src="Images/firebase.png" alt="Firebase" width="40" height="40"/> | <img src="Images/python.png" alt="Python" width="40" height="40"/> | <img src="Images/cmake.png" alt="CMake" width="40" height="40"/> | <img src="Images/git.png" alt="Git" width="40" height="40"/> | <img src="Images/bash.png" alt="Bash" width="40" height="40"/> | <img src="Images/linux.png" alt="Linux" width="40" height="40"/> | <img src="Images/qt.png" alt="QT" width="50" height="40"/> | 
+
+
+<!--
 <h3 align="left">Language and Tool Proficiencies:</h3>
 <p align="left"> <img src="Images/c.png" alt="C" width="36" height="40"/>
                  <img src="Images/c++.png" alt="C++" width="40" height="40"/>
                  <img src="Images/java.png" alt="Java" width="40" height="40"/>
                  <img src="Images/kotlin.png" alt="Kotlin" width="40" height="40"/>
-                 <img src="Images/firebase.png" alt="Kotlin" width="40" height="40"/>
+                 <img src="Images/firebase.png" alt="Firebase" width="40" height="40"/>
                  <img src="Images/python.png" alt="Python" width="40" height="40"/>
                  <img src="Images/cmake.png" alt="CMake" width="40" height="40"/>
                  <img src="Images/git.png" alt="Git" width="40" height="40"/>
@@ -29,5 +39,4 @@
                  <img src="Images/linux.png" alt="Linux" width="40" height="40"/>
                  <img src="Images/qt.png" alt="QT" width="50" height="40"/>
 </p>
-
-C, C++, Java, Kotlin, Firebase, Python, CMake, Git, Bash, Linux, QT
+-->
