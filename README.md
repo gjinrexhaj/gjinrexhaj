@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gjin</h1>
-<h3 align="center">Third-year university student majoring in Computer Science and minoring in Mathematics.</h3>
+<h3 align="center">Fourth-year university student majoring in Computer Science and minoring in Mathematics.</h3>
 <br />
 
 
