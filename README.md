@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Godot, C#, and AvaloniaUI**
 
-- 🧑‍💻 Portfolio: **https://gjinrexhaj.github.io/portfolio/**
+- 🧑‍💻 Portfolio: **https://gjinrexhaj.streamlit.app/**
 
 - 📫 How to reach me: **gjin.contact@gmail.com**
 
