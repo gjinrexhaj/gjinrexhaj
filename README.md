@@ -3,7 +3,7 @@
 <br />
 
 
-- 🔭 I’m currently working on **implementing a neural-net from scratch**
+- 🔭 I’m currently working on **implementing a cellular automata engine**
 
 - 🌱 I’m currently learning **Godot, C#, and AvaloniaUI**
 
