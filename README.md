@@ -3,7 +3,7 @@
 <br />
 
 
-- 🔭 I’m currently working on **implementing a cellular automata engine**
+- 🔭 I’m currently working on **implementing a 3D cellular automata engine**
 
 - 🌱 I’m currently learning **Angular**
 
