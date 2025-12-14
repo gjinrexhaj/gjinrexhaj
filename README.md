@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **implementing a 3D cellular automata engine**
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Angular and Bootstrap**
 
 - 🧑‍💻 Portfolio: **https://gjinrexhaj.streamlit.app/**
 
