@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Angular and Bootstrap**
 
-- 🧑‍💻 Portfolio: **https://gjinrexhaj.streamlit.app/**
+- 🧑‍💻 Portfolio: **https://gjinrexhaj.github.io/portfolio-dev/**
 
 - 📫 How to reach me: **gjin.contact@gmail.com**
 
