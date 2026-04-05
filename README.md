@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **implementing a 3D cellular automata engine**
 
-- 🌱 I’m currently learning **Angular, Bootstrap, and WebGPU**
+- 🌱 I’m currently learning **Unity and C#**
 
 - 🧑‍💻 Portfolio: **https://gjinrexhaj.github.io/portfolio-dev/**
 
