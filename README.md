@@ -3,9 +3,9 @@
 <br />
 
 
-- 🔭 I’m currently working on **implementing a 3D cellular automata engine**
+- 🔭 I’m currently working on **implementing a sacred geometry construction engine**
 
-- 🌱 I’m currently learning **Unity and C#**
+- 🌱 I’m currently learning **React and TypeScript**
 
 - 🧑‍💻 Portfolio: **https://gjinrexhaj.github.io/portfolio-dev/**
 
