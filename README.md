@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React and TypeScript**
 
-- 🧑‍💻 Portfolio: **https://gjinrexhaj.github.io/portfolio-dev/**
+- 🧑‍💻 Portfolio: **https://gjinrexhaj.github.io/portfolio/**
 
 - 📫 How to reach me: **gjin.contact@gmail.com**
 
