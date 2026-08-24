@@ -3,7 +3,7 @@
 <br />
 
 
-- 🔭 I’m currently working on **implementing a [sacred geometry construction engine](https://gjinrexhaj.github.io/aurea/)**
+- 🔭 I’m currently working on **developing [aurea](https://gjinrexhaj.github.io/aurea/), a sacred geometry construction engine**
 
 - 🌱 I’m currently learning **React and TypeScript**
 
