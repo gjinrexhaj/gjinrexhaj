@@ -9,7 +9,7 @@
 
 - 🧑‍💻 Portfolio: **https://gjinrexhaj.github.io/portfolio/**
 
-- 📫 How to reach me: **gjin.contact@gmail.com**
+- 📫 How to reach me: **gjin.programmer@gmail.com**
 
 <p align="left">
 </p>
